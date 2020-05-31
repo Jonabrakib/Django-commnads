@@ -1,0 +1,6 @@
+1. Create project: django-admin startproject mysite
+2. Create App: python manage.py startapp appname
+3. runserver: python manage.py runserver
+4. create super user: python manage.py createsuperuser
+5. db migrations: python manage.py makemigrations
+6. db migrate: python manage.py migrate
